@@ -1,7 +1,7 @@
 'use strict'
 
 var tape = require('tape')
-var cleanPSLG = require('../clean-pslg')
+var cleanPSLG = require('../clean-pslg-3d')
 var checkPSLG = require('./check-graph')
 
 tape('stars', function(t) {

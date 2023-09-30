@@ -6,7 +6,7 @@ var segment2 = require('segment2')
 var mouseChange = require('mouse-change')
 var segCrosses = require('robust-segment-intersect')
 var fit = require('canvas-fit')
-var cleanupPSLG = require('../clean-pslg')
+var cleanupPSLG = require('../clean-pslg-3d')
 
 //Create canvas and context
 var canvas = document.createElement('canvas')

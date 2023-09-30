@@ -4,7 +4,7 @@ var data = {
 }
 
 var tape = require('tape')
-var cleanPSLG = require('../clean-pslg')
+var cleanPSLG = require('../clean-pslg-3d')
 var checkPSLG = require('./check-graph')
 
 tape('clean crash', function (t) {
